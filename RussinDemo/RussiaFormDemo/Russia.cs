@@ -6,7 +6,7 @@
 
     class Russia
     {
-       
+        //这是一个测试信息
         public const int cakeSize = 20;
         public Point[] cakePointArray = new Point[4];
         public Color cakeColor;
